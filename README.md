@@ -5,6 +5,11 @@ You should firstly run this commands;
 * `yarn`
 * `yarn start`
 
+<br/>
+    Backend : [socket-video-player-backend](https://github.com/suleymansevimli/socket-video-player-backend)
+
+<br/>
+
 ### `yarn`
 
 This command will install requirement dependencies in 
